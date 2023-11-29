@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spis_filmow>
+  <film>
+    <id_filmu>f1</id_filmu>
+    <tytul>Gwiezdne Wojny</tytul>
+    <rok>2019</rok>
+    <kraj>USA</kraj>
+    <czas_trwania>140</czas_trwania>
+    <gatunek>SF</gatunek>
+    <opis_filmu></opis_filmu>
+  </film>
+  <film>
+    <id_filmu>f2</id_filmu>
+    <tytul>Ostatni Samuraj</tytul>
+    <rok>2001</rok>
+    <kraj>USA</kraj>
+    <czas_trwania>145</czas_trwania>
+    <gatunek>Historyczny</gatunek>
+    <opis_filmu></opis_filmu>
+  </film>
+  <film>
+    <id_filmu>f3</id_filmu>
+    <tytul>Obecność 2</tytul>
+    <rok>2015</rok>
+    <kraj>USA</kraj>
+    <czas_trwania>121</czas_trwania>
+    <gatunek>Horror</gatunek>
+    <opis_filmu></opis_filmu>
+  </film>
+  <film>
+    <id_filmu>f4</id_filmu>
+    <tytul>Kameleon</tytul>
+    <rok>2011</rok>
+    <kraj>USA</kraj>
+    <czas_trwania>98</czas_trwania>
+    <gatunek>Komedia</gatunek>
+    <opis_filmu></opis_filmu>
+  </film>
+  <film>
+    <id_filmu>f5</id_filmu>
+    <tytul>Ogniem i mieczem</tytul>
+    <rok>2000</rok>
+    <kraj>Polska</kraj>
+    <czas_trwania>178</czas_trwania>
+    <gatunek>Historyczny</gatunek>
+    <opis_filmu></opis_filmu>
+  </film>
+</spis_filmow>
